@@ -1,0 +1,8 @@
+{
+  "version": "20260722-013253",
+  "published_at": "2026-07-21T17:35:18.6834101Z",
+  "release_notes": "切换到 GitHub 安全更新通道；保留 data；校验 HTTPS、文件大小和 SHA256；包含完整教程和注意事项。",
+  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260722-013253/OKGift-Quote-Manager-Portable-20260722-013253.zip",
+  "sha256": "f73131f1cb59db1a22d3dd007b3329028a500f1c05a69b063f69d8605db74288",
+  "size": 31240675
+}
